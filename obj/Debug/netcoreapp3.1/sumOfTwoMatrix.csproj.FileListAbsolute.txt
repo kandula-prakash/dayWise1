@@ -1,0 +1,13 @@
+C:\Users\prakash kandula\source\repos\sumOfTwoMatrix\sumOfTwoMatrix\bin\Debug\netcoreapp3.1\sumOfTwoMatrix.exe
+C:\Users\prakash kandula\source\repos\sumOfTwoMatrix\sumOfTwoMatrix\bin\Debug\netcoreapp3.1\sumOfTwoMatrix.deps.json
+C:\Users\prakash kandula\source\repos\sumOfTwoMatrix\sumOfTwoMatrix\bin\Debug\netcoreapp3.1\sumOfTwoMatrix.runtimeconfig.json
+C:\Users\prakash kandula\source\repos\sumOfTwoMatrix\sumOfTwoMatrix\bin\Debug\netcoreapp3.1\sumOfTwoMatrix.runtimeconfig.dev.json
+C:\Users\prakash kandula\source\repos\sumOfTwoMatrix\sumOfTwoMatrix\bin\Debug\netcoreapp3.1\sumOfTwoMatrix.dll
+C:\Users\prakash kandula\source\repos\sumOfTwoMatrix\sumOfTwoMatrix\bin\Debug\netcoreapp3.1\sumOfTwoMatrix.pdb
+C:\Users\prakash kandula\source\repos\sumOfTwoMatrix\sumOfTwoMatrix\obj\Debug\netcoreapp3.1\sumOfTwoMatrix.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\sumOfTwoMatrix\sumOfTwoMatrix\obj\Debug\netcoreapp3.1\sumOfTwoMatrix.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\sumOfTwoMatrix\sumOfTwoMatrix\obj\Debug\netcoreapp3.1\sumOfTwoMatrix.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\sumOfTwoMatrix\sumOfTwoMatrix\obj\Debug\netcoreapp3.1\sumOfTwoMatrix.csproj.CoreCompileInputs.cache
+C:\Users\prakash kandula\source\repos\sumOfTwoMatrix\sumOfTwoMatrix\obj\Debug\netcoreapp3.1\sumOfTwoMatrix.dll
+C:\Users\prakash kandula\source\repos\sumOfTwoMatrix\sumOfTwoMatrix\obj\Debug\netcoreapp3.1\sumOfTwoMatrix.pdb
+C:\Users\prakash kandula\source\repos\sumOfTwoMatrix\sumOfTwoMatrix\obj\Debug\netcoreapp3.1\sumOfTwoMatrix.genruntimeconfig.cache
