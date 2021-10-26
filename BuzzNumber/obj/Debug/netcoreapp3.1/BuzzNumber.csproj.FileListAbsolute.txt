@@ -1,0 +1,13 @@
+C:\Users\prakash kandula\source\repos\AutomorphicProgram\BuzzNumber\bin\Debug\netcoreapp3.1\BuzzNumber.exe
+C:\Users\prakash kandula\source\repos\AutomorphicProgram\BuzzNumber\bin\Debug\netcoreapp3.1\BuzzNumber.deps.json
+C:\Users\prakash kandula\source\repos\AutomorphicProgram\BuzzNumber\bin\Debug\netcoreapp3.1\BuzzNumber.runtimeconfig.json
+C:\Users\prakash kandula\source\repos\AutomorphicProgram\BuzzNumber\bin\Debug\netcoreapp3.1\BuzzNumber.runtimeconfig.dev.json
+C:\Users\prakash kandula\source\repos\AutomorphicProgram\BuzzNumber\bin\Debug\netcoreapp3.1\BuzzNumber.dll
+C:\Users\prakash kandula\source\repos\AutomorphicProgram\BuzzNumber\bin\Debug\netcoreapp3.1\BuzzNumber.pdb
+C:\Users\prakash kandula\source\repos\AutomorphicProgram\BuzzNumber\obj\Debug\netcoreapp3.1\BuzzNumber.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\AutomorphicProgram\BuzzNumber\obj\Debug\netcoreapp3.1\BuzzNumber.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\AutomorphicProgram\BuzzNumber\obj\Debug\netcoreapp3.1\BuzzNumber.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\AutomorphicProgram\BuzzNumber\obj\Debug\netcoreapp3.1\BuzzNumber.csproj.CoreCompileInputs.cache
+C:\Users\prakash kandula\source\repos\AutomorphicProgram\BuzzNumber\obj\Debug\netcoreapp3.1\BuzzNumber.dll
+C:\Users\prakash kandula\source\repos\AutomorphicProgram\BuzzNumber\obj\Debug\netcoreapp3.1\BuzzNumber.pdb
+C:\Users\prakash kandula\source\repos\AutomorphicProgram\BuzzNumber\obj\Debug\netcoreapp3.1\BuzzNumber.genruntimeconfig.cache

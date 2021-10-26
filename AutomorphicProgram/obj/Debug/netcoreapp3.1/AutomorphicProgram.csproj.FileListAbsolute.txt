@@ -1,0 +1,13 @@
+C:\Users\prakash kandula\source\repos\AutomorphicProgram\AutomorphicProgram\bin\Debug\netcoreapp3.1\AutomorphicProgram.exe
+C:\Users\prakash kandula\source\repos\AutomorphicProgram\AutomorphicProgram\bin\Debug\netcoreapp3.1\AutomorphicProgram.deps.json
+C:\Users\prakash kandula\source\repos\AutomorphicProgram\AutomorphicProgram\bin\Debug\netcoreapp3.1\AutomorphicProgram.runtimeconfig.json
+C:\Users\prakash kandula\source\repos\AutomorphicProgram\AutomorphicProgram\bin\Debug\netcoreapp3.1\AutomorphicProgram.runtimeconfig.dev.json
+C:\Users\prakash kandula\source\repos\AutomorphicProgram\AutomorphicProgram\bin\Debug\netcoreapp3.1\AutomorphicProgram.dll
+C:\Users\prakash kandula\source\repos\AutomorphicProgram\AutomorphicProgram\bin\Debug\netcoreapp3.1\AutomorphicProgram.pdb
+C:\Users\prakash kandula\source\repos\AutomorphicProgram\AutomorphicProgram\obj\Debug\netcoreapp3.1\AutomorphicProgram.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\AutomorphicProgram\AutomorphicProgram\obj\Debug\netcoreapp3.1\AutomorphicProgram.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\AutomorphicProgram\AutomorphicProgram\obj\Debug\netcoreapp3.1\AutomorphicProgram.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\AutomorphicProgram\AutomorphicProgram\obj\Debug\netcoreapp3.1\AutomorphicProgram.csproj.CoreCompileInputs.cache
+C:\Users\prakash kandula\source\repos\AutomorphicProgram\AutomorphicProgram\obj\Debug\netcoreapp3.1\AutomorphicProgram.dll
+C:\Users\prakash kandula\source\repos\AutomorphicProgram\AutomorphicProgram\obj\Debug\netcoreapp3.1\AutomorphicProgram.pdb
+C:\Users\prakash kandula\source\repos\AutomorphicProgram\AutomorphicProgram\obj\Debug\netcoreapp3.1\AutomorphicProgram.genruntimeconfig.cache

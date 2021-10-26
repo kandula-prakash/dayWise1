@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomorphicProgram", "AutomorphicProgram\AutomorphicProgram.csproj", "{BB8761D0-9AE1-442E-935D-8A1E4BC98265}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuzzNumber", "BuzzNumber\BuzzNumber.csproj", "{8450D4A1-B110-4D6C-BDC3-BD4994488B16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB8761D0-9AE1-442E-935D-8A1E4BC98265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8761D0-9AE1-442E-935D-8A1E4BC98265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8761D0-9AE1-442E-935D-8A1E4BC98265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8761D0-9AE1-442E-935D-8A1E4BC98265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8450D4A1-B110-4D6C-BDC3-BD4994488B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8450D4A1-B110-4D6C-BDC3-BD4994488B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8450D4A1-B110-4D6C-BDC3-BD4994488B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8450D4A1-B110-4D6C-BDC3-BD4994488B16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EA5D63E-8A99-4350-98CC-F6D645905A51}
+	EndGlobalSection
+EndGlobal
