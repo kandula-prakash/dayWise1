@@ -1,0 +1,13 @@
+C:\Users\prakash kandula\source\repos\arrayLearning\arrayLearning\bin\Debug\netcoreapp3.1\arrayLearning.exe
+C:\Users\prakash kandula\source\repos\arrayLearning\arrayLearning\bin\Debug\netcoreapp3.1\arrayLearning.deps.json
+C:\Users\prakash kandula\source\repos\arrayLearning\arrayLearning\bin\Debug\netcoreapp3.1\arrayLearning.runtimeconfig.json
+C:\Users\prakash kandula\source\repos\arrayLearning\arrayLearning\bin\Debug\netcoreapp3.1\arrayLearning.runtimeconfig.dev.json
+C:\Users\prakash kandula\source\repos\arrayLearning\arrayLearning\bin\Debug\netcoreapp3.1\arrayLearning.dll
+C:\Users\prakash kandula\source\repos\arrayLearning\arrayLearning\bin\Debug\netcoreapp3.1\arrayLearning.pdb
+C:\Users\prakash kandula\source\repos\arrayLearning\arrayLearning\obj\Debug\netcoreapp3.1\arrayLearning.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\arrayLearning\arrayLearning\obj\Debug\netcoreapp3.1\arrayLearning.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\arrayLearning\arrayLearning\obj\Debug\netcoreapp3.1\arrayLearning.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\arrayLearning\arrayLearning\obj\Debug\netcoreapp3.1\arrayLearning.csproj.CoreCompileInputs.cache
+C:\Users\prakash kandula\source\repos\arrayLearning\arrayLearning\obj\Debug\netcoreapp3.1\arrayLearning.dll
+C:\Users\prakash kandula\source\repos\arrayLearning\arrayLearning\obj\Debug\netcoreapp3.1\arrayLearning.pdb
+C:\Users\prakash kandula\source\repos\arrayLearning\arrayLearning\obj\Debug\netcoreapp3.1\arrayLearning.genruntimeconfig.cache
