@@ -1,0 +1,13 @@
+C:\Users\prakash kandula\source\repos\reverseString\reverseString\bin\Debug\netcoreapp3.1\reverseString.exe
+C:\Users\prakash kandula\source\repos\reverseString\reverseString\bin\Debug\netcoreapp3.1\reverseString.deps.json
+C:\Users\prakash kandula\source\repos\reverseString\reverseString\bin\Debug\netcoreapp3.1\reverseString.runtimeconfig.json
+C:\Users\prakash kandula\source\repos\reverseString\reverseString\bin\Debug\netcoreapp3.1\reverseString.runtimeconfig.dev.json
+C:\Users\prakash kandula\source\repos\reverseString\reverseString\bin\Debug\netcoreapp3.1\reverseString.dll
+C:\Users\prakash kandula\source\repos\reverseString\reverseString\bin\Debug\netcoreapp3.1\reverseString.pdb
+C:\Users\prakash kandula\source\repos\reverseString\reverseString\obj\Debug\netcoreapp3.1\reverseString.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\reverseString\reverseString\obj\Debug\netcoreapp3.1\reverseString.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\reverseString\reverseString\obj\Debug\netcoreapp3.1\reverseString.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\reverseString\reverseString\obj\Debug\netcoreapp3.1\reverseString.csproj.CoreCompileInputs.cache
+C:\Users\prakash kandula\source\repos\reverseString\reverseString\obj\Debug\netcoreapp3.1\reverseString.dll
+C:\Users\prakash kandula\source\repos\reverseString\reverseString\obj\Debug\netcoreapp3.1\reverseString.pdb
+C:\Users\prakash kandula\source\repos\reverseString\reverseString\obj\Debug\netcoreapp3.1\reverseString.genruntimeconfig.cache
