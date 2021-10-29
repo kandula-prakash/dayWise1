@@ -1,0 +1,13 @@
+C:\Users\prakash kandula\source\repos\ploymerphism\ploymerphism\bin\Debug\netcoreapp3.1\ploymerphism.exe
+C:\Users\prakash kandula\source\repos\ploymerphism\ploymerphism\bin\Debug\netcoreapp3.1\ploymerphism.deps.json
+C:\Users\prakash kandula\source\repos\ploymerphism\ploymerphism\bin\Debug\netcoreapp3.1\ploymerphism.runtimeconfig.json
+C:\Users\prakash kandula\source\repos\ploymerphism\ploymerphism\bin\Debug\netcoreapp3.1\ploymerphism.runtimeconfig.dev.json
+C:\Users\prakash kandula\source\repos\ploymerphism\ploymerphism\bin\Debug\netcoreapp3.1\ploymerphism.dll
+C:\Users\prakash kandula\source\repos\ploymerphism\ploymerphism\bin\Debug\netcoreapp3.1\ploymerphism.pdb
+C:\Users\prakash kandula\source\repos\ploymerphism\ploymerphism\obj\Debug\netcoreapp3.1\ploymerphism.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\ploymerphism\ploymerphism\obj\Debug\netcoreapp3.1\ploymerphism.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\ploymerphism\ploymerphism\obj\Debug\netcoreapp3.1\ploymerphism.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\ploymerphism\ploymerphism\obj\Debug\netcoreapp3.1\ploymerphism.csproj.CoreCompileInputs.cache
+C:\Users\prakash kandula\source\repos\ploymerphism\ploymerphism\obj\Debug\netcoreapp3.1\ploymerphism.dll
+C:\Users\prakash kandula\source\repos\ploymerphism\ploymerphism\obj\Debug\netcoreapp3.1\ploymerphism.pdb
+C:\Users\prakash kandula\source\repos\ploymerphism\ploymerphism\obj\Debug\netcoreapp3.1\ploymerphism.genruntimeconfig.cache
