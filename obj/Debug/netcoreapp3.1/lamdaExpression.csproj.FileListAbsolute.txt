@@ -1,0 +1,13 @@
+C:\Users\prakash kandula\source\repos\lamdaExpression\lamdaExpression\bin\Debug\netcoreapp3.1\lamdaExpression.exe
+C:\Users\prakash kandula\source\repos\lamdaExpression\lamdaExpression\bin\Debug\netcoreapp3.1\lamdaExpression.deps.json
+C:\Users\prakash kandula\source\repos\lamdaExpression\lamdaExpression\bin\Debug\netcoreapp3.1\lamdaExpression.runtimeconfig.json
+C:\Users\prakash kandula\source\repos\lamdaExpression\lamdaExpression\bin\Debug\netcoreapp3.1\lamdaExpression.runtimeconfig.dev.json
+C:\Users\prakash kandula\source\repos\lamdaExpression\lamdaExpression\bin\Debug\netcoreapp3.1\lamdaExpression.dll
+C:\Users\prakash kandula\source\repos\lamdaExpression\lamdaExpression\bin\Debug\netcoreapp3.1\lamdaExpression.pdb
+C:\Users\prakash kandula\source\repos\lamdaExpression\lamdaExpression\obj\Debug\netcoreapp3.1\lamdaExpression.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\lamdaExpression\lamdaExpression\obj\Debug\netcoreapp3.1\lamdaExpression.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\lamdaExpression\lamdaExpression\obj\Debug\netcoreapp3.1\lamdaExpression.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\lamdaExpression\lamdaExpression\obj\Debug\netcoreapp3.1\lamdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\prakash kandula\source\repos\lamdaExpression\lamdaExpression\obj\Debug\netcoreapp3.1\lamdaExpression.dll
+C:\Users\prakash kandula\source\repos\lamdaExpression\lamdaExpression\obj\Debug\netcoreapp3.1\lamdaExpression.pdb
+C:\Users\prakash kandula\source\repos\lamdaExpression\lamdaExpression\obj\Debug\netcoreapp3.1\lamdaExpression.genruntimeconfig.cache
