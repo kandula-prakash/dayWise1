@@ -1,0 +1,13 @@
+C:\Users\prakash kandula\source\repos\swapingNumbers\swapingNumbers\bin\Debug\netcoreapp3.1\swapingNumbers.exe
+C:\Users\prakash kandula\source\repos\swapingNumbers\swapingNumbers\bin\Debug\netcoreapp3.1\swapingNumbers.deps.json
+C:\Users\prakash kandula\source\repos\swapingNumbers\swapingNumbers\bin\Debug\netcoreapp3.1\swapingNumbers.runtimeconfig.json
+C:\Users\prakash kandula\source\repos\swapingNumbers\swapingNumbers\bin\Debug\netcoreapp3.1\swapingNumbers.runtimeconfig.dev.json
+C:\Users\prakash kandula\source\repos\swapingNumbers\swapingNumbers\bin\Debug\netcoreapp3.1\swapingNumbers.dll
+C:\Users\prakash kandula\source\repos\swapingNumbers\swapingNumbers\bin\Debug\netcoreapp3.1\swapingNumbers.pdb
+C:\Users\prakash kandula\source\repos\swapingNumbers\swapingNumbers\obj\Debug\netcoreapp3.1\swapingNumbers.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\swapingNumbers\swapingNumbers\obj\Debug\netcoreapp3.1\swapingNumbers.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\swapingNumbers\swapingNumbers\obj\Debug\netcoreapp3.1\swapingNumbers.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\swapingNumbers\swapingNumbers\obj\Debug\netcoreapp3.1\swapingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\prakash kandula\source\repos\swapingNumbers\swapingNumbers\obj\Debug\netcoreapp3.1\swapingNumbers.dll
+C:\Users\prakash kandula\source\repos\swapingNumbers\swapingNumbers\obj\Debug\netcoreapp3.1\swapingNumbers.pdb
+C:\Users\prakash kandula\source\repos\swapingNumbers\swapingNumbers\obj\Debug\netcoreapp3.1\swapingNumbers.genruntimeconfig.cache
