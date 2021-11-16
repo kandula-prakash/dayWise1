@@ -1,0 +1,13 @@
+C:\Users\prakash kandula\source\repos\pattrenA\pattrenA\bin\Debug\netcoreapp3.1\pattrenA.exe
+C:\Users\prakash kandula\source\repos\pattrenA\pattrenA\bin\Debug\netcoreapp3.1\pattrenA.deps.json
+C:\Users\prakash kandula\source\repos\pattrenA\pattrenA\bin\Debug\netcoreapp3.1\pattrenA.runtimeconfig.json
+C:\Users\prakash kandula\source\repos\pattrenA\pattrenA\bin\Debug\netcoreapp3.1\pattrenA.runtimeconfig.dev.json
+C:\Users\prakash kandula\source\repos\pattrenA\pattrenA\bin\Debug\netcoreapp3.1\pattrenA.dll
+C:\Users\prakash kandula\source\repos\pattrenA\pattrenA\bin\Debug\netcoreapp3.1\pattrenA.pdb
+C:\Users\prakash kandula\source\repos\pattrenA\pattrenA\obj\Debug\netcoreapp3.1\pattrenA.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\pattrenA\pattrenA\obj\Debug\netcoreapp3.1\pattrenA.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\pattrenA\pattrenA\obj\Debug\netcoreapp3.1\pattrenA.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\pattrenA\pattrenA\obj\Debug\netcoreapp3.1\pattrenA.csproj.CoreCompileInputs.cache
+C:\Users\prakash kandula\source\repos\pattrenA\pattrenA\obj\Debug\netcoreapp3.1\pattrenA.dll
+C:\Users\prakash kandula\source\repos\pattrenA\pattrenA\obj\Debug\netcoreapp3.1\pattrenA.pdb
+C:\Users\prakash kandula\source\repos\pattrenA\pattrenA\obj\Debug\netcoreapp3.1\pattrenA.genruntimeconfig.cache
