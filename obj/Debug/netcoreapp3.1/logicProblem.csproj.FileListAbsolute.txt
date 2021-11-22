@@ -1,0 +1,13 @@
+C:\Users\prakash kandula\source\repos\logicProblem\logicProblem\bin\Debug\netcoreapp3.1\logicProblem.exe
+C:\Users\prakash kandula\source\repos\logicProblem\logicProblem\bin\Debug\netcoreapp3.1\logicProblem.deps.json
+C:\Users\prakash kandula\source\repos\logicProblem\logicProblem\bin\Debug\netcoreapp3.1\logicProblem.runtimeconfig.json
+C:\Users\prakash kandula\source\repos\logicProblem\logicProblem\bin\Debug\netcoreapp3.1\logicProblem.runtimeconfig.dev.json
+C:\Users\prakash kandula\source\repos\logicProblem\logicProblem\bin\Debug\netcoreapp3.1\logicProblem.dll
+C:\Users\prakash kandula\source\repos\logicProblem\logicProblem\bin\Debug\netcoreapp3.1\logicProblem.pdb
+C:\Users\prakash kandula\source\repos\logicProblem\logicProblem\obj\Debug\netcoreapp3.1\logicProblem.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\logicProblem\logicProblem\obj\Debug\netcoreapp3.1\logicProblem.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\logicProblem\logicProblem\obj\Debug\netcoreapp3.1\logicProblem.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\logicProblem\logicProblem\obj\Debug\netcoreapp3.1\logicProblem.csproj.CoreCompileInputs.cache
+C:\Users\prakash kandula\source\repos\logicProblem\logicProblem\obj\Debug\netcoreapp3.1\logicProblem.dll
+C:\Users\prakash kandula\source\repos\logicProblem\logicProblem\obj\Debug\netcoreapp3.1\logicProblem.pdb
+C:\Users\prakash kandula\source\repos\logicProblem\logicProblem\obj\Debug\netcoreapp3.1\logicProblem.genruntimeconfig.cache
