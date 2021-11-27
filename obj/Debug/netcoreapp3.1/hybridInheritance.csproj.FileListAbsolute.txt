@@ -1,0 +1,13 @@
+C:\Users\prakash kandula\source\repos\hybridInheritance\hybridInheritance\bin\Debug\netcoreapp3.1\hybridInheritance.exe
+C:\Users\prakash kandula\source\repos\hybridInheritance\hybridInheritance\bin\Debug\netcoreapp3.1\hybridInheritance.deps.json
+C:\Users\prakash kandula\source\repos\hybridInheritance\hybridInheritance\bin\Debug\netcoreapp3.1\hybridInheritance.runtimeconfig.json
+C:\Users\prakash kandula\source\repos\hybridInheritance\hybridInheritance\bin\Debug\netcoreapp3.1\hybridInheritance.runtimeconfig.dev.json
+C:\Users\prakash kandula\source\repos\hybridInheritance\hybridInheritance\bin\Debug\netcoreapp3.1\hybridInheritance.dll
+C:\Users\prakash kandula\source\repos\hybridInheritance\hybridInheritance\bin\Debug\netcoreapp3.1\hybridInheritance.pdb
+C:\Users\prakash kandula\source\repos\hybridInheritance\hybridInheritance\obj\Debug\netcoreapp3.1\hybridInheritance.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\hybridInheritance\hybridInheritance\obj\Debug\netcoreapp3.1\hybridInheritance.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\hybridInheritance\hybridInheritance\obj\Debug\netcoreapp3.1\hybridInheritance.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\hybridInheritance\hybridInheritance\obj\Debug\netcoreapp3.1\hybridInheritance.csproj.CoreCompileInputs.cache
+C:\Users\prakash kandula\source\repos\hybridInheritance\hybridInheritance\obj\Debug\netcoreapp3.1\hybridInheritance.dll
+C:\Users\prakash kandula\source\repos\hybridInheritance\hybridInheritance\obj\Debug\netcoreapp3.1\hybridInheritance.pdb
+C:\Users\prakash kandula\source\repos\hybridInheritance\hybridInheritance\obj\Debug\netcoreapp3.1\hybridInheritance.genruntimeconfig.cache
