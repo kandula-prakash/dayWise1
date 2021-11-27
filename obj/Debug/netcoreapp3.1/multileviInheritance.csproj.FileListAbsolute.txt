@@ -1,0 +1,13 @@
+C:\Users\prakash kandula\source\repos\multileviInheritance\multileviInheritance\bin\Debug\netcoreapp3.1\multileviInheritance.exe
+C:\Users\prakash kandula\source\repos\multileviInheritance\multileviInheritance\bin\Debug\netcoreapp3.1\multileviInheritance.deps.json
+C:\Users\prakash kandula\source\repos\multileviInheritance\multileviInheritance\bin\Debug\netcoreapp3.1\multileviInheritance.runtimeconfig.json
+C:\Users\prakash kandula\source\repos\multileviInheritance\multileviInheritance\bin\Debug\netcoreapp3.1\multileviInheritance.runtimeconfig.dev.json
+C:\Users\prakash kandula\source\repos\multileviInheritance\multileviInheritance\bin\Debug\netcoreapp3.1\multileviInheritance.dll
+C:\Users\prakash kandula\source\repos\multileviInheritance\multileviInheritance\bin\Debug\netcoreapp3.1\multileviInheritance.pdb
+C:\Users\prakash kandula\source\repos\multileviInheritance\multileviInheritance\obj\Debug\netcoreapp3.1\multileviInheritance.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\multileviInheritance\multileviInheritance\obj\Debug\netcoreapp3.1\multileviInheritance.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\multileviInheritance\multileviInheritance\obj\Debug\netcoreapp3.1\multileviInheritance.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\multileviInheritance\multileviInheritance\obj\Debug\netcoreapp3.1\multileviInheritance.csproj.CoreCompileInputs.cache
+C:\Users\prakash kandula\source\repos\multileviInheritance\multileviInheritance\obj\Debug\netcoreapp3.1\multileviInheritance.dll
+C:\Users\prakash kandula\source\repos\multileviInheritance\multileviInheritance\obj\Debug\netcoreapp3.1\multileviInheritance.pdb
+C:\Users\prakash kandula\source\repos\multileviInheritance\multileviInheritance\obj\Debug\netcoreapp3.1\multileviInheritance.genruntimeconfig.cache
