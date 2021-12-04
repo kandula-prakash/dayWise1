@@ -1,0 +1,13 @@
+C:\Users\prakash kandula\source\repos\daywiseDemo\daywiseDemo\bin\Debug\netcoreapp3.1\daywiseDemo.exe
+C:\Users\prakash kandula\source\repos\daywiseDemo\daywiseDemo\bin\Debug\netcoreapp3.1\daywiseDemo.deps.json
+C:\Users\prakash kandula\source\repos\daywiseDemo\daywiseDemo\bin\Debug\netcoreapp3.1\daywiseDemo.runtimeconfig.json
+C:\Users\prakash kandula\source\repos\daywiseDemo\daywiseDemo\bin\Debug\netcoreapp3.1\daywiseDemo.runtimeconfig.dev.json
+C:\Users\prakash kandula\source\repos\daywiseDemo\daywiseDemo\bin\Debug\netcoreapp3.1\daywiseDemo.dll
+C:\Users\prakash kandula\source\repos\daywiseDemo\daywiseDemo\bin\Debug\netcoreapp3.1\daywiseDemo.pdb
+C:\Users\prakash kandula\source\repos\daywiseDemo\daywiseDemo\obj\Debug\netcoreapp3.1\daywiseDemo.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\daywiseDemo\daywiseDemo\obj\Debug\netcoreapp3.1\daywiseDemo.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\daywiseDemo\daywiseDemo\obj\Debug\netcoreapp3.1\daywiseDemo.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\daywiseDemo\daywiseDemo\obj\Debug\netcoreapp3.1\daywiseDemo.csproj.CoreCompileInputs.cache
+C:\Users\prakash kandula\source\repos\daywiseDemo\daywiseDemo\obj\Debug\netcoreapp3.1\daywiseDemo.dll
+C:\Users\prakash kandula\source\repos\daywiseDemo\daywiseDemo\obj\Debug\netcoreapp3.1\daywiseDemo.pdb
+C:\Users\prakash kandula\source\repos\daywiseDemo\daywiseDemo\obj\Debug\netcoreapp3.1\daywiseDemo.genruntimeconfig.cache
