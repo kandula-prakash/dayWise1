@@ -1,0 +1,13 @@
+C:\Users\prakash kandula\source\repos\doubleLinkedList\doubleLinkedList\bin\Debug\netcoreapp3.1\doubleLinkedList.exe
+C:\Users\prakash kandula\source\repos\doubleLinkedList\doubleLinkedList\bin\Debug\netcoreapp3.1\doubleLinkedList.deps.json
+C:\Users\prakash kandula\source\repos\doubleLinkedList\doubleLinkedList\bin\Debug\netcoreapp3.1\doubleLinkedList.runtimeconfig.json
+C:\Users\prakash kandula\source\repos\doubleLinkedList\doubleLinkedList\bin\Debug\netcoreapp3.1\doubleLinkedList.runtimeconfig.dev.json
+C:\Users\prakash kandula\source\repos\doubleLinkedList\doubleLinkedList\bin\Debug\netcoreapp3.1\doubleLinkedList.dll
+C:\Users\prakash kandula\source\repos\doubleLinkedList\doubleLinkedList\bin\Debug\netcoreapp3.1\doubleLinkedList.pdb
+C:\Users\prakash kandula\source\repos\doubleLinkedList\doubleLinkedList\obj\Debug\netcoreapp3.1\doubleLinkedList.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\doubleLinkedList\doubleLinkedList\obj\Debug\netcoreapp3.1\doubleLinkedList.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\doubleLinkedList\doubleLinkedList\obj\Debug\netcoreapp3.1\doubleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\prakash kandula\source\repos\doubleLinkedList\doubleLinkedList\obj\Debug\netcoreapp3.1\doubleLinkedList.dll
+C:\Users\prakash kandula\source\repos\doubleLinkedList\doubleLinkedList\obj\Debug\netcoreapp3.1\doubleLinkedList.pdb
+C:\Users\prakash kandula\source\repos\doubleLinkedList\doubleLinkedList\obj\Debug\netcoreapp3.1\doubleLinkedList.genruntimeconfig.cache
+C:\Users\prakash kandula\source\repos\doubleLinkedList\doubleLinkedList\obj\Debug\netcoreapp3.1\doubleLinkedList.csproj.AssemblyReference.cache
