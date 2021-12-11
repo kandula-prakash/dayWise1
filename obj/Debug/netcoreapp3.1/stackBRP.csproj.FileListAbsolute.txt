@@ -1,0 +1,13 @@
+C:\Users\prakash kandula\source\repos\stackBRP\stackBRP\obj\Debug\netcoreapp3.1\stackBRP.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\stackBRP\stackBRP\obj\Debug\netcoreapp3.1\stackBRP.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\stackBRP\stackBRP\obj\Debug\netcoreapp3.1\stackBRP.csproj.CoreCompileInputs.cache
+C:\Users\prakash kandula\source\repos\stackBRP\stackBRP\obj\Debug\netcoreapp3.1\stackBRP.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\stackBRP\stackBRP\bin\Debug\netcoreapp3.1\stackBRP.exe
+C:\Users\prakash kandula\source\repos\stackBRP\stackBRP\bin\Debug\netcoreapp3.1\stackBRP.deps.json
+C:\Users\prakash kandula\source\repos\stackBRP\stackBRP\bin\Debug\netcoreapp3.1\stackBRP.runtimeconfig.json
+C:\Users\prakash kandula\source\repos\stackBRP\stackBRP\bin\Debug\netcoreapp3.1\stackBRP.runtimeconfig.dev.json
+C:\Users\prakash kandula\source\repos\stackBRP\stackBRP\bin\Debug\netcoreapp3.1\stackBRP.dll
+C:\Users\prakash kandula\source\repos\stackBRP\stackBRP\bin\Debug\netcoreapp3.1\stackBRP.pdb
+C:\Users\prakash kandula\source\repos\stackBRP\stackBRP\obj\Debug\netcoreapp3.1\stackBRP.dll
+C:\Users\prakash kandula\source\repos\stackBRP\stackBRP\obj\Debug\netcoreapp3.1\stackBRP.pdb
+C:\Users\prakash kandula\source\repos\stackBRP\stackBRP\obj\Debug\netcoreapp3.1\stackBRP.genruntimeconfig.cache
