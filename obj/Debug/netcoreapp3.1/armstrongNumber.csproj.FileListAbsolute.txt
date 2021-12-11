@@ -1,0 +1,13 @@
+C:\Users\prakash kandula\source\repos\armstrongNumber\armstrongNumber\bin\Debug\netcoreapp3.1\armstrongNumber.exe
+C:\Users\prakash kandula\source\repos\armstrongNumber\armstrongNumber\bin\Debug\netcoreapp3.1\armstrongNumber.deps.json
+C:\Users\prakash kandula\source\repos\armstrongNumber\armstrongNumber\bin\Debug\netcoreapp3.1\armstrongNumber.runtimeconfig.json
+C:\Users\prakash kandula\source\repos\armstrongNumber\armstrongNumber\bin\Debug\netcoreapp3.1\armstrongNumber.runtimeconfig.dev.json
+C:\Users\prakash kandula\source\repos\armstrongNumber\armstrongNumber\bin\Debug\netcoreapp3.1\armstrongNumber.dll
+C:\Users\prakash kandula\source\repos\armstrongNumber\armstrongNumber\bin\Debug\netcoreapp3.1\armstrongNumber.pdb
+C:\Users\prakash kandula\source\repos\armstrongNumber\armstrongNumber\obj\Debug\netcoreapp3.1\armstrongNumber.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\armstrongNumber\armstrongNumber\obj\Debug\netcoreapp3.1\armstrongNumber.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\armstrongNumber\armstrongNumber\obj\Debug\netcoreapp3.1\armstrongNumber.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\armstrongNumber\armstrongNumber\obj\Debug\netcoreapp3.1\armstrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\prakash kandula\source\repos\armstrongNumber\armstrongNumber\obj\Debug\netcoreapp3.1\armstrongNumber.dll
+C:\Users\prakash kandula\source\repos\armstrongNumber\armstrongNumber\obj\Debug\netcoreapp3.1\armstrongNumber.pdb
+C:\Users\prakash kandula\source\repos\armstrongNumber\armstrongNumber\obj\Debug\netcoreapp3.1\armstrongNumber.genruntimeconfig.cache
