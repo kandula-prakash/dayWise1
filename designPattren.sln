@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "designPattren", "designPattren\designPattren.csproj", "{812B9CCA-A1A3-4D27-ABF6-D546B66B2EE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{812B9CCA-A1A3-4D27-ABF6-D546B66B2EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{812B9CCA-A1A3-4D27-ABF6-D546B66B2EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{812B9CCA-A1A3-4D27-ABF6-D546B66B2EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{812B9CCA-A1A3-4D27-ABF6-D546B66B2EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {252371D0-C3C7-4226-A49B-0DD4E18FBD03}
+	EndGlobalSection
+EndGlobal
