@@ -1,0 +1,13 @@
+C:\Users\prakash kandula\source\repos\hastTable\hastTable\bin\Debug\netcoreapp3.1\hastTable.exe
+C:\Users\prakash kandula\source\repos\hastTable\hastTable\bin\Debug\netcoreapp3.1\hastTable.deps.json
+C:\Users\prakash kandula\source\repos\hastTable\hastTable\bin\Debug\netcoreapp3.1\hastTable.runtimeconfig.json
+C:\Users\prakash kandula\source\repos\hastTable\hastTable\bin\Debug\netcoreapp3.1\hastTable.runtimeconfig.dev.json
+C:\Users\prakash kandula\source\repos\hastTable\hastTable\bin\Debug\netcoreapp3.1\hastTable.dll
+C:\Users\prakash kandula\source\repos\hastTable\hastTable\bin\Debug\netcoreapp3.1\hastTable.pdb
+C:\Users\prakash kandula\source\repos\hastTable\hastTable\obj\Debug\netcoreapp3.1\hastTable.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\hastTable\hastTable\obj\Debug\netcoreapp3.1\hastTable.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\hastTable\hastTable\obj\Debug\netcoreapp3.1\hastTable.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\hastTable\hastTable\obj\Debug\netcoreapp3.1\hastTable.csproj.CoreCompileInputs.cache
+C:\Users\prakash kandula\source\repos\hastTable\hastTable\obj\Debug\netcoreapp3.1\hastTable.dll
+C:\Users\prakash kandula\source\repos\hastTable\hastTable\obj\Debug\netcoreapp3.1\hastTable.pdb
+C:\Users\prakash kandula\source\repos\hastTable\hastTable\obj\Debug\netcoreapp3.1\hastTable.genruntimeconfig.cache
